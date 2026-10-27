@@ -16,7 +16,7 @@
 
 ---
 
-## 💜 `whoami`
+## 💜 `who am i`
 
 ```text
 NAME       : Rahul Thapa
